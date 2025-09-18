@@ -34,6 +34,14 @@ This project:
 
 ---
 
+## 📥 Dataset
+We used the **[Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)** from Kaggle.
+
+⚠️ The dataset is **not included in this repo** (file size >100MB).  
+Download it from Kaggle and place `creditcard.csv` in the project folder.
+
+---
+
 ## 📥 Installation
 Clone the repository:
 ```bash
